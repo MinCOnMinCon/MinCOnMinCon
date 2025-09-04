@@ -5,8 +5,8 @@
 주로 사용하는 언어는 **C++** 입니다.  
 
 만약 취업이 된다면..
-> 네오위즈 ![Static Badge](https://img.shields.io/badge/(0.00%25)-black)
-> 넥슨게임즈 ![Static Badge](https://img.shields.io/badge/(1.91%25)-red)
+> 네오위즈 ![Static Badge](https://img.shields.io/badge/(0.00%25)-black)  
+> 넥슨게임즈 ![Static Badge](https://img.shields.io/badge/(1.91%25)-red)  
 > 시프트업 ![Static Badge](https://img.shields.io/badge/(--18.97%25)-blue) ~~(나중에 주가가 떡상할거라 믿습니다)~~  
 
 이 세 곳이 목표입니다!  
